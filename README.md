@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+--!<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -35,7 +35,7 @@
     }
 
     #hero {
-      background-image: url('your-image.jpg');
+      background-image: url('fabio-comparelli-uq2E2V4LhCY-unsplash.jpg');
       background-size: cover;
       background-position: center;
       color: #fff;
